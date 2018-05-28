@@ -32,9 +32,9 @@ SSH access to the specific VM
 
 Destroying all or specific VMs 
 
-#vagrant destroy -f or 
+#vagrant destroy -f
 
-#vagrant destroy  (varnish_VM0 ... varnish_VM5)
+#vagrant destroy  (varnish_VM0 ... varnish_VM4)
 
 Private network ips
 
